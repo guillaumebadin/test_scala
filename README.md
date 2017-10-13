@@ -29,3 +29,15 @@ Format d'un résultat
 }
 ```
 
+## Envoie d'un résultat 
+On pourra à l'aide d'un Webservice envoyer un ou plusieurs résultats. 
+
+## Authentification
+Aucune authentification
+
+## Lecture de mes résultats (Patients)
+A l'aide de mon ID patient, je pourrais récupérer tous mes résultats
+
+## Lecture des résultats correspondants 
+Je suis un correspondants (Médecin, Infirmière) je veux récupérer tous les résultats de mes patients. 
+
