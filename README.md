@@ -41,3 +41,14 @@ A l'aide de mon ID patient, je pourrais récupérer tous mes résultats
 ## Lecture des résultats correspondants 
 Je suis un correspondants (Médecin, Infirmière) je veux récupérer tous les résultats de mes patients. 
 
+# Consigne de rendu
+Tu doit creer un projet play2 Scala sbt, qui lancera un mini serveur implementant tous les webservices demandées. 
+Pour lancer le projet je dois pouvoir faire *uniquement* la commande `sbt run`.
+Une attention particulière sera données à la qualité du code, la pertinence des noms données aux méthodes mais aussi à votre API.
+Tu as 2 semaines à partir du moment ou tu recevras le mail de test technique pour passer ce test. 
+Si tu n'y arrive pas au bout de 2 semaine c'est que tu n'a pas le niveau ou l'envie de le faire.
+
+
+
+# cas élimination
+Nous avons besoins de personnes rigoureuses donc voici les cas d'
