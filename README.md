@@ -29,16 +29,16 @@ Format d'un résultat
 }
 ```
 
-## [Obligatoire] Envoie d'un résultat 
+## [Obligatoire] Envoi d'un résultat 
 On pourra à l'aide d'un Webservice envoyer un ou plusieurs résultats. 
-Attention, tous les champs du JSON sont aubligatoires, certains champs sont formmatés. 
+Attention, tous les champs du JSON sont obligatoires, certains champs sont formatés. 
 N'oublie pas de valider ce qu'on t'envoie
 
 ## [Obligatoire] Lecture de mes résultats (Patients)
-A l'aide de mon ID patient, je pourrais récupérer tous mes résultats
+À l'aide de mon ID patient, je pourrais récupérer tous mes résultats
 
 ## [Obligatoire] Lecture des résultats correspondants 
-Je suis un correspondants (Médecin, Infirmière) je veux récupérer tous les résultats de mes patients. 
+Je suis un correspondant (Médecin, Infirmière) je veux récupérer tous les résultats de mes patients. 
 
 ## [Obligatoire] Authentification
 Aucune authentification
@@ -55,12 +55,12 @@ Tu peux si tu as le temps faire des tests unitaires (en fait je te recommande de
 Tu peux si tu as le temps paginer les webservices de lectures
 
 # Consigne de rendu
-Tu doit creer un projet play2 Scala sbt, qui lancera un mini serveur implementant tous les webservices demandées. 
+Tu dois créer un projet play2 Scala sbt, qui lancera un mini serveur implémentant tous les webservices demandés. 
 Pour lancer le projet je dois pouvoir faire *uniquement* la commande `sbt run`.
-Une attention particulière sera données à la qualité du code, la pertinence des noms données aux méthodes mais aussi à ton API.
+Une attention particulière sera donnée à la qualité du code, la pertinence des noms donnés aux méthodes, mais aussi à ton API.
 
 Tu as 2 semaines à partir du moment ou tu recevras le mail de test technique pour passer ce test. 
-Si tu n'y arrive pas au bout de 2 semaine c'est que tu n'a pas le niveau ou l'envie de le faire.
+Si tu n'y arrives pas au bout de 2 semaines c'est que tu n'as pas le niveau ou l'envie de le faire.
 
 Tu devras fournir un repo github avant le rendu nous permettant de cloner et de vérifier ton rendu.
 
@@ -68,12 +68,11 @@ A la racine du projet, tu devras rédiger en Français une documentation sur REA
 
 
 # cas d'élimination
-Nous avons besoins de personnes rigoureuses donc voici les cas d'élimination : 
+Nous avons besoin de personnes rigoureuses donc voici les cas d'élimination : 
 * Si le projet ne compile pas
 * Si les features [Obligatoire] ne sont pas implémentés
 * Si le projet n'est pas rendu à temps
-* Si les consignes de rendu ne sont pas respectés
+* Si les consignes de rendu ne sont pas respectées
 
 # Questions 
-Tu peux poser des questions sur le test par mail à l'adresse que tu as reçu par mail.
-
+Tu peux poser des questions sur le test par mail à l'adresse que tu as reçue par mail.
